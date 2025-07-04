@@ -1,23 +1,40 @@
-**OtakuPulse - Discord Bot Terms of Service**
+# OtakuPulse — Discord Bot Terms of Service
 
-By using OtakuPulse on your Discord server, you agree to the following:
+Welcome to **OtakuPulse**! By inviting and using the OtakuPulse bot on your Discord server, you agree to the following terms:
 
-1. **Usage**  
-   OtakuPulse is a fan-made Discord bot designed for anime fans. By inviting and using the bot, you agree that you are responsible for its usage on your server.
+---
 
-2. **Data Handling**  
-   OtakuPulse stores minimal information such as your Discord ID and linked usernames for AniList/MyAnimeList in local JSON files for feature functionality.
+### 1. Usage
+OtakuPulse is a fan-made Discord bot created for anime enthusiasts. By adding and using the bot, you acknowledge that you are fully responsible for its usage and management on your server.
 
-3. **Availability**  
-   Bot uptime is not guaranteed. The bot may go offline for maintenance or updates without prior notice.
+### 2. Data Handling
+OtakuPulse stores only minimal data necessary for its features to function, such as:
+- Your Discord ID
+- Linked usernames for AniList/MyAnimeList
 
-4. **Modification and Termination**  
-   We reserve the right to modify or discontinue the bot or any of its features without notice.
+All data is stored locally in JSON files and is not shared with any third parties.
 
-5. **Limitations**  
-   The bot is provided "as is" without warranty. We are not liable for any damages resulting from the use or inability to use the bot.
+### 3. Availability
+Bot uptime is not guaranteed. The bot may go offline at any time for maintenance, updates, or unforeseen issues, without prior notice.
 
-6. **Third-Party Services**  
-   OtakuPulse may interact with third-party services such as AniList, Jikan API (MAL), and YouTube. Use of their data is subject to their own terms.
+### 4. Modification & Termination
+We reserve the right to modify, suspend, or discontinue the bot or any of its features at any time, with or without notice.
 
-If you do not agree with any part of these terms, you should not use OtakuPulse.
+### 5. Limitations
+OtakuPulse is provided **“as is”** without any warranty. We are not liable for any damages, losses, or issues resulting from the use or inability to use the bot.
+
+### 6. Third-Party Services
+OtakuPulse may interact with third-party services such as:
+- AniList
+- Jikan API (MyAnimeList)
+- YouTube
+
+Use of these services is subject to their respective terms of service and privacy policies.
+
+---
+
+If you do **not** agree with any part of these terms, please do not use OtakuPulse.
+
+---
+
+*Thank you for choosing OtakuPulse for your server!*
